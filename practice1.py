@@ -1,3 +1,5 @@
+#whileとforを使って1~5を出力する
+
 print("while")
 i = 0
 while i < 5:
